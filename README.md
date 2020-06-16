@@ -1,5 +1,5 @@
 # chloroquine_vote
-Análise de buscas no Google por "cloroquina" durante o começo da pandemia
+Os dados usados são o volume buscas no Google por "cloroquina" no Brasil durante o começo da pandemia e o percentual de votos para o presidente Bolsonaro por estado. O código usa os pacotes gtrendsR e cepespR.
 
-Essa análise foi publicada no blog do FGV Cepesp:
+A análise dos dados foi publicada no blog do FGV Cepesp:
 http://www.cepesp.io/rodando-os-dados-a-influencia-de-bolsonaro-no-debate-sobre-o-covid-19/
